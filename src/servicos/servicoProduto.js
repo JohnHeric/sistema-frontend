@@ -1,4 +1,3 @@
-//const urlBase = 'https://bcc-backend-lp-2.vercel.app/produtos';
 //const urlBase = 'http://localhost:4000/produtos';
 const urlBase = 'https://sistema-backend-five.vercel.app/produtos';
 
